@@ -7,13 +7,19 @@
 
 ### 🙋‍♂️ About me
 - 🎓 Currently pursuing **BCA (Bachelor of Computer Applications)**
-- 🌱 Learning programming, web development and building small projects
+- 💻 Comfortable with **Python, HTML, CSS & JavaScript**
+- 🌱 Currently learning **Java** and **PHP**
 - 👯 Open to collaborating on student projects
 - ⚡ Fun fact: I'm just getting started, so watch this space!
 
-### 🛠️ Languages & Tools
+### 🛠️ Languages I know
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,python,html,css,js,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,js" />
+</p>
+
+### 📚 Currently learning
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,php" />
 </p>
 
 ### 📊 GitHub Stats
