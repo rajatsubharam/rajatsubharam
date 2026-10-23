@@ -12,6 +12,9 @@
 - 👯 Open to collaborating on student projects
 - ⚡ Fun fact: I'm just getting started, so watch this space!
 
+### 🚀 Projects
+- **Mishtimukh** — Bengali restaurant website (HTML, CSS, JS) · [Live](https://rajatsubharam.github.io/mishtimukh/) · [Code](https://github.com/rajatsubharam/mishtimukh)
+
 ### 🛠️ Languages I know
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,html,css,js" />
