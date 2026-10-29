@@ -14,7 +14,7 @@
 
 ### 🚀 Projects
 - **Mishtimukh** — Bengali restaurant website (HTML, CSS, JS) · [Live](https://rajatsubharam.github.io/mishtimukh/) · [Code](https://github.com/rajatsubharam/mishtimukh)
-- **Weather Report** — Chrome extension for live weather, AQI & forecast (JS, Manifest V3) · [Code](https://github.com/rajatsubharam/weather-report)
+- **Weather Report** — Chrome extension for live weather, AQI & forecast (JS, Manifest V3) · [Code](https://github.com/rajatsubharam/weather-report) · [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/weather-report-rajat/)
 
 ### 🛠️ Languages I know
 <p align="left">
